@@ -22,14 +22,11 @@ I’m coming to the conclusion I have to not only admit I don’t have the answe
 But that doesn’t mean you have to hide them. I’m no longer scared of what people think of me, and I realize it’s worth sharing these questions, even if people misunderstand me. So I’m pulling this mug out of the cabinet and turning it around so you can see the questions etched on the surface:
 
     Whom will I marry?
-
     Will I be alone for the rest of my life?
-
     Why do I find men attractive?
-
     Is God planning some miracle I have yet to experience?
-
     And given these questions, what should I be doing now?
+
 
 I don’t have fitting, satisfying answers for these questions. And I’m okay with that. If you’re a person asking yourself similar questions, you’re not alone. In case you’re still wondering why I have them, let me introduce myself:
 
