@@ -1,4 +1,5 @@
 ---
+title: Mug of Questions
 layout: post
 tags : [comingout,ncod]
 ---
