@@ -9,7 +9,7 @@ owner:
   name:           Joe LeBlanc
   #avatar:         avatar.png
   bio:            "Gay Christians humbled by the people who have gone before them, as well as the task ahead."
-  email:          comments@outandhumbled.org
+  # email:          comments@outandhumbled.org
   twitter:        outandhumbled
   # Plug in your disqus shortname!
 
