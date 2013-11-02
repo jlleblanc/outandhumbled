@@ -28,7 +28,7 @@ But that doesn’t mean you have to hide them. I’m no longer scared of what pe
 
     Is God planning some miracle I have yet to experience?
 
-And given these questions, what should I be doing now?
+    And given these questions, what should I be doing now?
 
 I don’t have fitting, satisfying answers for these questions. And I’m okay with that. If you’re a person asking yourself similar questions, you’re not alone. In case you’re still wondering why I have them, let me introduce myself:
 
