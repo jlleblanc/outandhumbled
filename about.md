@@ -1,26 +1,13 @@
 ---
-layout: post
+layout: page
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
+title: Out and Humbled
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+This blog is an unvarnished look at the toughts and experiences of gay Christians, told from their own perspectives. We are out of the closet, unashamed of our sexuality, and desiring to share our stories. By sharing, we hope for a healthier conversation in the church about sexuality. We also hope to encourage people who share in our circumstances. Opening ourselves to more transparency enables others to also step forward to be known more authentically by their friends and family.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+At the same time, we are humbled. Before us have come a long line of people who have made tireless sacrifices for us to even be this far in the conversation. Countless LGBT people have endured verbal slurs, discrimination, and even threats to their lives for living openly. Sadly, there are places in this world where it is still not safe to openly discuss your sexuality if you are LGBT, even in Western countries.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+### Comments
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
-
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+The method for comments at this blog are a bit atypical. There is no running list of comments and replies at the bottom of the page. Instead, you are invited to write your own blog post in reply to any material on this site. After writing a blog post, please email [comments@outandhumbled.org](mailto:comments@outandhumbled.org) with your name and a permalink to the post. Periodically, comments posts will be added with excerpts, links back to the original post, and possibly responses from the editors.
