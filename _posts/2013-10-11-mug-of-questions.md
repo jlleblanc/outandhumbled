@@ -1,6 +1,7 @@
 ---
 title: Mug of Questions
 layout: post
+author: Joe LeBlanc
 tags : [comingout,ncod]
 ---
 When I imagined this moment, it always looked something like a dinner party where I’m holding up a perfect crystal champagne flute. It’s filled to just the correct height and foaming ever so slightly. I have principled answers, articulated from a position of both reason and experience. People I’ve never met are gathering around, instantly gaining understanding and standing in awe. The wise become wiser still, and the not-so-wise are quieting to think. This is a glorious triumph, both for me and for everyone sharing in my plight.
