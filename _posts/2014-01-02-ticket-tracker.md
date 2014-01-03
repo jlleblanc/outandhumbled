@@ -5,7 +5,7 @@ layout: post
 tags : [prayer,programming,relationships]
 ---
 
-One recent evening, I was at home reflecting on this year. While I knew I'd be in for a ride, it's proven to be more confusing and exhausting than I'd anticipated. There have been so many times where I've prayed, as though I were filing bug reports in the tracker of a software project, but never heard anything back.
+One recent evening, I was at home reflecting on the past year. While I knew I'd be in for a ride, it's proven to be more confusing and exhausting than I'd anticipated. There have been so many times where I've prayed, as though I were filing bug reports in the tracker of a software project, but never heard anything back.
 
 "God, I really need you to take a look at the tracker. I've filed several issues and haven't heard back on them."
 
