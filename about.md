@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: Out and Humbled
 ---
 
-This blog is an unvarnished look at the toughts and experiences of gay Christians, told from their own perspectives. We are out of the closet and unashamed of our sexuality. By sharing our stories, we hope for healthier conversations in the church. We also hope to encourage those who share our circumstances. Humbly opening ourselves to more transparency enables others to also step forward.
+This blog chronicles my toughts and experiences as a gay Christian. I write posts when I have something to share.
 
 ### Comments
 
