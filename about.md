@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: Out and Humbled
 ---
 
-This blog chronicles my toughts and experiences as a gay Christian. I write posts when I have something to share.
+This blog chronicles my thoughts and experiences as a gay Christian. I write posts when I have something to share.
 
 ### Comments
 
