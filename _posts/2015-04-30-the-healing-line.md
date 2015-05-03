@@ -59,9 +59,7 @@ On the other hand, some allies add LGBT rights to the ever-growing list of progr
 
 I feel as though both types are showing up this evening. I'm registering LGBT couples, straight couples, moms, dads, friends, and church groups. The noise fades as the first session starts. 
 
-Thirty-six hours later, I check my phone while getting ready for the last full day of the conference. I do some quick, conference-related searches on Twitter and Instagram to see what people are up to. A photo of Westboro Baptist Church picketing in front of the Oregon Convention Center turns up. I'm not entirely surprised. And yet I am surprised: there's a [brilliant rainbow](https://instagram.com/p/xr1GCWnJkq) above the crowds! 
-
-Thanks to Portland's ever-present rain and a few patches of sun, this hate group is rebutted by a natural symbol of God's promise to never again destroy the earth.
+Thirty-six hours later, I check my phone while getting ready for the last full day of the conference. I do some quick, conference-related searches on Twitter and Instagram to see what people are up to. A photo of Westboro Baptist Church picketing in front of the Oregon Convention Center turns up. I'm not entirely surprised. And yet I am surprised: there's a [brilliant rainbow](https://instagram.com/p/xr1GCWnJkq) above the crowds! Thanks to Portland's ever-present rain and a few patches of sun, this hate group is rebutted by a natural symbol of God's promise to never again destroy the earth.
 
 The two-stop ride from the hotel to the convention center is quick. I'm feeling very up beat, although in need of some coffee. The protesters are still there and I'm completely unconcerned. As I leave the train, a conference volunteer approaches me. He explains the situation and offers to have volunteers escort me into the convention center if I prefer.
 
