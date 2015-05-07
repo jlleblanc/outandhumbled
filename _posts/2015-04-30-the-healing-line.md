@@ -69,7 +69,7 @@ There are some lingering rain showers and the warmth from the train has now left
 
 As I walk through this tunnel of counter-protesters, they sing and cheer for me. I was so confident heading down here this morning, thinking all of the counter-protesting was unnecessary. But as I walk through this tunnel, I realize this isn't about the protesters or my safety. 
 
-In the past, I've judged people like the ones standing in this line. Their doctrines have been too liberal for my tastes, their beliefs haven't entirely line up with what I think is true, and their spiritual practices haven't produced the kind of transformation I see in other Christians. Some of them, in my estimation, have substituted progressive social justice for the truth in an attempt to win the favor of secular culture.
+In the past, I've judged people like the ones standing in this line. Their doctrines have been too liberal for my tastes, their beliefs haven't entirely lined up with what I think is true, and their spiritual practices haven't produced the kind of transformation I see in other Christians. Some of them, in my estimation, have substituted progressive social justice for the truth in an attempt to win the favor of secular culture.
 
 But today, I'm confronted with a healing line. It's not offering the kind of healing I was looking for six years ago. It's not one I've sought, but it's one I desperately need. This line is using love to heal my judgmental attitude. As I walk through, I'm receiving the kind of unconditional love Christ commanded us to show each other. It's a love transcending politics, gender, socioeconomic status, doctrine, education, nationality, sexual orientation, knowledge, ethnicity, upbringing, and every possible way we differ from each other.
 
